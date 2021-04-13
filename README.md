@@ -1,7 +1,5 @@
 # Hi there visitor. Welcome to my profile!👋
 
-<!--
-**RaffaeleFiorillo/RaffaeleFiorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Short description
 - 🔭 I’m currently working on - Game Development
@@ -34,4 +32,3 @@
 
 <!-- This section you create this variables that are used above -->
 <!--[linkedin]: https://www.linkedin.com/in/roberto-medina-28062318a/-->
--->
