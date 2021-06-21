@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate with - People with other kinds of experties
 - 💬 Ask me about - Programming questions
 - 🥅 2021 Goal - Make something usefull for people to use
-- ⚡ Fun fact - I also do calistenic
+- ⚡ Fun fact - I like science, long conversations and adventures
+- Languages - Italian, Portuguese, English, Kriol (Cape Verd)
 
 ##   Activity details
 
