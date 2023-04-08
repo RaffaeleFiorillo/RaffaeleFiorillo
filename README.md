@@ -26,8 +26,7 @@
 
 <!-- Optional if you have blogs -->
 ##   Working on:
-- [Frequency Table Creator](https://github.com/RaffaeleFiorillo/Frequency_Table_Creator)
-- [Algorithms and Data Structure](https://github.com/RobertoCarlosMedina/AlgorDataStruct)
+- [Fast and Curious](https://github.com/RaffaeleFiorillo/Fast_and_Curious): Game Developed in python.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
