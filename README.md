@@ -12,7 +12,7 @@
 
 ##   Activity details
 
-[![Raffaele Fiorillo's github stats](https://github-readme-stats.vercel.app/api?username=RaffaeleFiorillo&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RaffaeleFiorillo)
+<!-- [![Raffaele Fiorillo's github stats](https://github-readme-stats.vercel.app/api?username=RaffaeleFiorillo&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RaffaeleFiorillo) -->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RobertoCarlosMedina)
