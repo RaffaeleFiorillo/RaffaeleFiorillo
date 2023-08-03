@@ -10,13 +10,11 @@
 - ⚡ Fun fact - I like science, long conversations and adventures
 - Languages - Italian, Portuguese, English, Kriol (Cape Verd)
 
-##   Activity details
+<!-- ##   Activity details
 
-<!-- [![Raffaele Fiorillo's github stats](https://github-readme-stats.vercel.app/api?username=RaffaeleFiorillo&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RaffaeleFiorillo) -->
+ [![Raffaele Fiorillo's github stats](https://github-readme-stats.vercel.app/api?username=RaffaeleFiorillo&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RaffaeleFiorillo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaeleFiorillo&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RaffaeleFiorillo) -->
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RobertoCarlosMedina)
--->
 ## Connect with me:
 <p align="center">
      <a href="https://wa.me/+351933713399"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>
