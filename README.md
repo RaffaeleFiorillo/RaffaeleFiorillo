@@ -13,6 +13,13 @@ Video games have always been a profound passion of mine, from the moment I first
      <a href="https://www.linkedin.com/in/raffaele-junior-fiorillo-ab033a200"><img title="Linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="100" height="50"/></a>
 </p>
 
+## Education
+### Bachelor Degree in Computer Engineering and Telecomunications:
+Tecnical University of the Atlantic, Mindelo, Cape Verde.
+
+### Master's Degree in Game Design and Playful Media:
+Lusófona University, Lisbon, Portugal.
+
 ## Skills
 ### Programming
 I am a passionate programmer. I like to use programming as a tool to explore the unknown. I make my code to be clean, efficient and well structured.
