@@ -43,6 +43,7 @@ I have been working in the Software area for almost 2years. During this time, I 
 ### Languages & Idioms
 - Italian: C2;
 - Capeverdian Kriol: C2;
+- Portuguese C2;
 - English: C1;
 - French: A2;
 - Spanish: A2 (Spoken);
