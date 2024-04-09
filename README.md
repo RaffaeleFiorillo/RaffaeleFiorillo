@@ -41,8 +41,8 @@ I have been working in the Software area for almost 2years. During this time, I 
 - AI for automation and optimization;
 
 ### Languages & Idioms
-- Italian: C2;
-- Capeverdian Kriol: C2;
+- Italian: C2 (Native);
+- Capeverdian Kriol: C2 (Native);
 - Portuguese C2;
 - English: C1;
 - French: A2;
