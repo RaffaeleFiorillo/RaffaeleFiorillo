@@ -68,6 +68,8 @@ Some of the games I made are here on github, some others you can see on my itch.
 
 ### Tools, Automation and AI
 - [APPythonix](https://github.com/RaffaeleFiorillo/APPythonix);
+- [PyGApp](https://github.com/RaffaeleFiorillo/PyGApp);
+- [PyMApp](https://github.com/RaffaeleFiorillo/PyMApp);
 - [CodeLinesCounter](https://github.com/RaffaeleFiorillo/CodeLinesCounter);
 - [FileEncryptor](https://github.com/RaffaeleFiorillo/FileEncryptor);
 - [Automatic Document Information Extraction](https://github.com/RaffaeleFiorillo/exam_info_extraction);
